@@ -1,0 +1,12 @@
+CS 219 - Assignment #5
+Floating Point Calculations.
+
+
+Float Answer #1 = 15.25000000
+Float Answer #2 = 15.85000038
+
+Double Answer #1 = 15.25
+Double Answer #2 = 15.85
+
+Float Sum = 0.99999070
+Double Sum = 9.999999999999897
